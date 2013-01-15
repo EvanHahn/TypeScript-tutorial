@@ -1,7 +1,7 @@
 New TypeScript feature 1: types
 ===============================
 
-If _Type_Script didn't have types, that'd be like...well, I guess it wouldn't be like Ruby not having rubies. Bad example. Let's talk about types.
+If TypeScript didn't have types, that'd be like...well, I guess it wouldn't be like Ruby not having rubies. Bad example. Let's talk about types.
 
 Normal primitive types: number, boolean, string
 -----------------------------------------------
